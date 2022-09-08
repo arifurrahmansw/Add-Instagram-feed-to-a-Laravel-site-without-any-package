@@ -11,11 +11,13 @@
 </div>
 
 <h3>Step: 2</h3>
+
 <p>
 <a href="https://developers.facebook.com/docs/instagram-basic-display-api/getting-started"> Create Instagram access token from this link</a>
 </p>
 
 <h3>Step: 3</h3>
+<p>Add access token in .env file</p>
 
 <div class="highlight">
    <pre class="highlight plaintext">
